@@ -12,4 +12,6 @@ package com.lzx.library.test;
 public class TestUtils {
 
     public final static String text1 = "测试";
+
+    public final static String text2 = "测试2";
 }
