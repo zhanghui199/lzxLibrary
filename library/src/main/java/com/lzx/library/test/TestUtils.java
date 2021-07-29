@@ -19,6 +19,6 @@ public class TestUtils {
 
 
     public void on(){
-
+        new Gson().toJson("");
     }
 }
